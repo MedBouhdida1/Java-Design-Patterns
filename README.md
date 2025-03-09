@@ -34,12 +34,12 @@ A functional interface is utilized to apply dynamic discounts based on energy co
 
 ### Clone the Repository:
 ```sh
-git clone https://github.com/yourusername/EnergyEfficientApplianceManager.git
+git clone https://github.com/MedBouhdida1/Java-Design-Patterns.git
 ```
 
 ### Navigate to the Project Directory:
 ```sh
-cd EnergyEfficientApplianceManager
+cd Java-Design-Patterns
 ```
 
 ### Compile and Run the Project:
@@ -52,7 +52,3 @@ Use a Java IDE such as IntelliJ IDEA, Eclipse, or VS Code, or use a build tool l
 
 ## Contributing
 Feel free to fork the repository and submit pull requests for improvements or additional features.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
